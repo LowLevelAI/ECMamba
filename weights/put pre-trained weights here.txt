@@ -1,0 +1,14 @@
+
+##For MambaIR testing
+python basicsr/test.py -opt options/test/mambair/test_MambaIR_ColorDN_level15.yml
+
+
+python -m torch.distributed.launch --nproc_per_node=8 --master_port=2414 basicsr/train.py -opt options/train/ecmamba.yml --launcher pytorch
+
+
+python basicsr/train.py -opt options/train/ecmamba.yml
+
+python basicsr/train.py -opt options/train/ecmamba_32_l1.yml
+
+
+python basicsr/train2.py -opt options/ecmamba_me.yml
