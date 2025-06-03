@@ -102,7 +102,7 @@ python test_sice.py
 python test_lol.py
 ```
 
-You can find all results in `test-results/`. **Enjoy**!
+You can find all results in `test-results/`. 
 
 
 ### 🏋️ Model Outputs
