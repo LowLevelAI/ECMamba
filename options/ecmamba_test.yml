@@ -1,0 +1,22 @@
+name: ECMamba_test
+model_type: ECMambaModel
+scale: 1
+num_gpu: 1  # set num_gpu: 0 for cpu mode
+manual_seed: 10
+auto_resume: True
+
+# network structures
+network_g:
+  type: ECMambaIncontext
+  in_channels: 3
+  out_channels: 3
+  n_feat: 48
+  stage: 1
+  num_blocks: [1, 1, 1]
+  d_state: 16
+
+
+path:
+  pretrain_network_g: ~
+  strict_load_g: true
+  resume_state: ~
