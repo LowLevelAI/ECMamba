@@ -73,13 +73,13 @@ cd ECMamba
   In `/anaconda3/envs/ecmamba/lib/python3.9/site-packages/DCNv4/modules/dcnv4.py` line 153, replace `retunr x` with **`retune x, offset_mask`**.
 
 
-## 🏃 Testing on benchmark datasets
+## 🏃 Testing on Benchmark Datasets
 
 ### 📷 Download following datasets:
 
 - MEDataset (Please refer to [Learning Multi-Scale Photo Exposure Correction](https://github.com/mahmoudnafifi/Exposure_Correction))
   
-- SICE Dataset [Drive](https://drive.google.com/file/d/1L-kqSQyrmMueBh_ziWoPFhfsAh50h20H/view?usp=sharing)
+- SICE Dataset [Drive](https://mcmasteru365-my.sharepoint.com/:f:/g/personal/dongw22_mcmaster_ca/Ehd9Qp_r5CBCq7Oru3SwzEQBWq6xKk4rPqQUGhSKHCdA_A?e=Re5YjA)
   
 - LOLv1 [Google Drive](https://drive.google.com/file/d/1L-kqSQyrmMueBh_ziWoPFhfsAh50h20H/view?usp=sharing)
 
@@ -107,4 +107,23 @@ You can find all results in `test-results/`. **Enjoy**!
 
 ### 🏋️ Model Outputs
 For your convenience, we also provide our outputs here.
-- LOLv1: [With GT-mean](https://mcmasteru365-my.sharepoint.com/:f:/g/personal/dongw22_mcmaster_ca/Egphs1uU_DNJphgOJgx-33MB1JLnmls4sTt13Vg5jjSh-w?e=RG2dg2), [Without GT-mean](https://mcmasteru365-my.sharepoint.com/:f:/g/personal/dongw22_mcmaster_ca/ElRpMbjB32JOvBrW33vvWP0BcqRvUNk2RZCXQflyxKXtEg?e=NSlOTG)
+- LOLv1: [With GT-mean](https://mcmasteru365-my.sharepoint.com/:f:/g/personal/dongw22_mcmaster_ca/Egphs1uU_DNJphgOJgx-33MBlsyqwQiXJ98vZPOlsMG8Ug?e=EERllk), [Without GT-mean](https://mcmasteru365-my.sharepoint.com/:f:/g/personal/dongw22_mcmaster_ca/ElRpMbjB32JOvBrW33vvWP0BcqRvUNk2RZCXQflyxKXtEg?e=NSlOTG)
+
+## ✏️ Contributing
+
+Please refer to [this](CONTRIBUTING.md) instruction.
+
+## 🎓 Citation
+
+Please cite our paper:
+```bibtex
+
+```
+
+## 🎫 License
+
+This work is licensed under the Apache License, Version 2.0 (as defined in the [LICENSE](LICENSE.txt)).
+
+By downloading and using the code and model you agree to the terms in the  [LICENSE](LICENSE.txt).
+
+[![License](https://img.shields.io/badge/License-Apache--2.0-929292)](https://www.apache.org/licenses/LICENSE-2.0)
