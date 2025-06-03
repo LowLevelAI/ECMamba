@@ -117,7 +117,12 @@ Please refer to [this](CONTRIBUTING.md) instruction.
 
 Please cite our paper:
 ```bibtex
-
+@article{dong2024ecmamba,
+  title={Ecmamba: Consolidating selective state space model with retinex guidance for efficient multiple exposure correction},
+  author={Dong, Wei and Zhou, Han and Zhang, Yulun and Liu, Xiaohong and Chen, Jun},
+  journal={Advances in Neural Information Processing Systems},
+  year={2024}
+}
 ```
 
 ## 🎫 License
