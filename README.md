@@ -1,4 +1,4 @@
-#  [NeurIPS 2024] ECMamba: Consolidating Selective State Space Model with Retinex Guidance for Efficient Multiple Exposure Correction
+#  [NeurIPS 2024] ECMamba: Consolidating Selective State Space Model with Retinex Guidance for Efficient Multiple Exposure Correction [[Paper]](https://arxiv.org/pdf/2410.21535)
 
 <h4 align="center">Wei Dong<sup>1,*</sup>, Han Zhou<sup>1,*</sup>, Yulun Zhang<sup>2</sup>, Xiaohong Liu<sup>2,&dagger;</sup>, Jun Chen<sup>1</sup></center>
 <h4 align="center"><sup>1</sup>McMaster University, <sup>2</sup>Shanghai Jiao Tong University, 
