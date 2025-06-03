@@ -87,7 +87,7 @@ cd ECMamba
 
 ### ⬇ Download pre-trained models
 
-Download [Pre-trained weights for SICE Dataset](https://drive.google.com/drive/folders/1Cesn3jJAdxjT7DDZCTMU8Vt2CnauBL7F?usp=drive_link), and [Pre-trained weights for LOLv1](https://mcmasteru365-my.sharepoint.com/:u:/g/personal/dongw22_mcmaster_ca/Ee1tHtVFsWJDhpejI1sWY-MBTvbQGg2lBY00rWGTKg37jQ?e=KaSA1E). Place them to folder `weights`. 
+Download [Pre-trained weight for SICE Dataset](https://mcmasteru365-my.sharepoint.com/:u:/g/personal/dongw22_mcmaster_ca/EUnM_YIlkf1AgKtLL3AEtBkBLfRp9SWn-RnuwXAZkrBZ0Q?e=YRusYW), and [Pre-trained weight for LOLv1](https://mcmasteru365-my.sharepoint.com/:u:/g/personal/dongw22_mcmaster_ca/Ee1tHtVFsWJDhpejI1sWY-MBTvbQGg2lBY00rWGTKg37jQ?e=KaSA1E). Place them to folder `weights`. 
 
 ### 🚀 Run inference
 - For SICE dataset
@@ -108,7 +108,7 @@ You can find all results in `test-results/`. **Enjoy**!
 ### 🏋️ Model Outputs
 For your convenience, we also provide our outputs here.
 - LOLv1: [With GT-mean](https://mcmasteru365-my.sharepoint.com/:f:/g/personal/dongw22_mcmaster_ca/Egphs1uU_DNJphgOJgx-33MBlsyqwQiXJ98vZPOlsMG8Ug?e=EERllk), [Without GT-mean](https://mcmasteru365-my.sharepoint.com/:f:/g/personal/dongw22_mcmaster_ca/ElRpMbjB32JOvBrW33vvWP0BcqRvUNk2RZCXQflyxKXtEg?e=NSlOTG)
-
+- SICE Dataset [Drive](https://mcmasteru365-my.sharepoint.com/:f:/g/personal/dongw22_mcmaster_ca/EnzTC6onslFNi1hNT1qcmLYBgaM3UZFtSNZihA79tdhYGQ?e=IuNiav)      
 ## ✏️ Contributing
 
 Please refer to [this](CONTRIBUTING.md) instruction.
