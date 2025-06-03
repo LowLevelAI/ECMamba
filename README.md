@@ -77,8 +77,6 @@ cd ECMamba
 
 ### 📷 Download following datasets:
 
-- MEDataset (Please refer to [Learning Multi-Scale Photo Exposure Correction](https://github.com/mahmoudnafifi/Exposure_Correction))
-  
 - SICE Dataset [Drive](https://mcmasteru365-my.sharepoint.com/:f:/g/personal/dongw22_mcmaster_ca/Ehd9Qp_r5CBCq7Oru3SwzEQBWq6xKk4rPqQUGhSKHCdA_A?e=Re5YjA)
   
 - LOLv1 [Google Drive](https://drive.google.com/file/d/1L-kqSQyrmMueBh_ziWoPFhfsAh50h20H/view?usp=sharing)
