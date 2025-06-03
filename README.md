@@ -73,4 +73,34 @@ cd ECMamba
   In `/anaconda3/envs/ecmamba/lib/python3.9/site-packages/DCNv4/modules/dcnv4.py` line 153, replace `retunr x` with **`retune x, offset_mask`**.
 
 
+## 🏃 Testing on benchmark datasets
+
+### 📷 Download following datasets:
+
+- MEDataset (Please refer to [Learning Multi-Scale Photo Exposure Correction](https://github.com/mahmoudnafifi/Exposure_Correction))
+  
+- SICE Dataset [Drive](https://drive.google.com/file/d/1L-kqSQyrmMueBh_ziWoPFhfsAh50h20H/view?usp=sharing)
+  
+- LOLv1 [Google Drive](https://drive.google.com/file/d/1L-kqSQyrmMueBh_ziWoPFhfsAh50h20H/view?usp=sharing)
+
+
+
+### ⬇ Download pre-trained models
+
+Download [Pre-trained weights for SICE Dataset](https://drive.google.com/drive/folders/1Cesn3jJAdxjT7DDZCTMU8Vt2CnauBL7F?usp=drive_link), and [Pre-trained weights for LOLv1](https://drive.google.com/drive/folders/1DuATvqpNgRGlPq5_LvvzghkFdFL9sYvq). Place them to folder `weights`. 
+
+### 🚀 Run inference
+- For SICE dataset
+
+```bash
+python test_sice.py
+```
+
+- For LOLv1 dataset
+
+```bash
+python test_lol.py
+```
+
+You can find all results in `test-results/`. **Enjoy**!
 
